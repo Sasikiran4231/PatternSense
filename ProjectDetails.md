@@ -21,11 +21,11 @@ Pattern Sense is an AI-powered project designed to automate the process of ident
 👉 [Click here to download the resources](https://drive.google.com/drive/folders/1VTpl2sA1_657KMNHhHlrZYg1fMdZjzpq?usp=sharing)
 
 🛠️ Setup Instructions:
-1.Clone the repository or download the project files
-2.Install required Python libraries from requirements.txt
-3.Run preprocessing scripts to prepare the dataset
-4.Train the model with TensorFlow
-5.Use the trained model to classify new fabric images
+1.Clone the repository or download the project files.
+2.Install required Python libraries from requirements.txt.
+3.Run preprocessing scripts to prepare the dataset.
+4.Train the model with TensorFlow.
+5.Use the trained model to classify new fabric images.
 
 🙌 Developed by:
 Amaraneni Naga Sasi Kiran (RISE Krishna Sai Prakasam Group of Institutions)
